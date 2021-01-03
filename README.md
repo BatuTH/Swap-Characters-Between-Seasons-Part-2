@@ -56,13 +56,15 @@ After exporting the files, rename the files like you did with the ptable files. 
 
 **DIFFERENCES:**
 
-S1-S2: (character)_eyes_down (for eye animation)
+**-S1-S2-**
+(character)_eyes_down (for eye animation)
 
 sk54_idle_(character)AngryC (for face animation)
 
 (character)_face_blink (to make characters blink)
 
-S3-S4: (character)_headEyeGesture_LookDown (for eye animation)
+**-S3-S4-** 
+(character)_headEyeGesture_LookDown (for eye animation)
 
 (character)_face_moodAngryC (for face animation)
 
@@ -70,9 +72,13 @@ S3-S4: (character)_headEyeGesture_LookDown (for eye animation)
 
 **OPTIONAL:**
 
-S1-S2: (character)_face_browsGestureDown_add (for eyebrow animations)
+**-S1-S2-**
 
-S3-S4: (character)_face_browsDown_add (for eyebrow animations)
+(character)_face_browsGestureDown_add (for eyebrow animations)
+
+**-S3-S4-** 
+
+(character)_face_browsDown_add (for eyebrow animations)
 
 The difference is needed since you want to swap s2 character with s3 or whatever you are up to! But if you want to swap the characters who are in the same season, you don't need to check the difference.
 
