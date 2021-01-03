@@ -43,14 +43,17 @@ After copying, pasting and editing is done then save the notepad files as .bat a
 ## STEP 3: Renaming the necessary files.
 
 **DATA:**
+
 You'll have to rename all the ptable files with other character you want to swap with. 
 For example, sk54_alvinFearB to sk61_javierFearB
 Do this step until you rename all the files with the character you wanted to swap.
 
 **ANICHORE:**
+
 After exporting the files, rename the files like you did with the ptable files. Here's the files you need to rename:
 
 **DIFFERENCES:**
+
 S1-S2: (character)_eyes_down (for eye animation)
 sk54_idle_(character)AngryC (for face animation)
 (character)_face_blink (to make characters blink)
@@ -60,6 +63,7 @@ S3-S4: (character)_headEyeGesture_LookDown (for eye animation)
 (character)_face_eyesClosed (to make characters blink)
 
 **OPTIONAL:**
+
 S1-S2: (character)_face_browsGestureDown_add (for eyebrow animations)
 
 S3-S4: (character)_face_browsDown_add (for eyebrow animations)
