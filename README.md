@@ -45,7 +45,9 @@ After copying, pasting and editing is done then save the notepad files as .bat a
 **DATA:**
 
 You'll have to rename all the ptable files with other character you want to swap with. 
+
 For example, sk54_alvinFearB to sk61_javierFearB
+
 Do this step until you rename all the files with the character you wanted to swap.
 
 **ANICHORE:**
