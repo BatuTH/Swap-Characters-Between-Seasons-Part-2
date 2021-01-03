@@ -57,11 +57,15 @@ After exporting the files, rename the files like you did with the ptable files. 
 **DIFFERENCES:**
 
 S1-S2: (character)_eyes_down (for eye animation)
+
 sk54_idle_(character)AngryC (for face animation)
+
 (character)_face_blink (to make characters blink)
 
 S3-S4: (character)_headEyeGesture_LookDown (for eye animation)
+
 (character)_face_moodAngryC (for face animation)
+
 (character)_face_eyesClosed (to make characters blink)
 
 **OPTIONAL:**
