@@ -38,7 +38,7 @@ ttarchext.exe -k 96CA999F8DDA9A87D7CDD9BB93D1BEC0D79171DC9ED98DD0D18CD8C3A0B0C69
 
 Examples: WDC_pc_WalkingDead204_anichore.ttarch2, WDC_pc_WalkingDead305_anichore.ttarch2, WDC_pc_WalkingDead404_anichore.ttarch2
 
-After copying, pasting and editing is done then save the notepad files as .bat and put it near the ttarchext folder. Don't copy and paste all the codes together, seperate them! Because the program might not recognize what you are trying to do. Then open the .bat file and the rest will be done by the program.
+After copying, pasting and editing is done then save the notepad files as .bat and put it inside the ttarchext folder. Don't copy and paste all the codes together, seperate them! Because the program might not recognize what you are trying to do. Then open the .bat file and the rest will be done by the program.
 
 ## STEP 3: Renaming the necessary files.
 
