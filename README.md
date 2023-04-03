@@ -1,8 +1,6 @@
 # Swap-Characters-Between-Seasons-Part-2
 This tutorial will teach you to change the facial animations of characters.
 
-**UPDATE (01.04.2023) ALL SEASONS WORK TOGETHER NOW and no this is not an april fools joke. The materials have been updated!**
-
 # Beginning
 First, you'll need the materials if you want to make S3 work in S4 for example or S4 in S1. It's limited for now but hopefully in the future there will be more options.
 [Here are the materials you need to download.](https://www.mediafire.com/file/dcajx596xxoyqn5/Materials_V3.rar/file)
